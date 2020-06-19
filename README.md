@@ -1,2 +1,15 @@
-# feedback
-Apache Flink
+# Apache Flink China 社区反馈区
+
+您可以将您的建议、想法以 issues 的方式提在这里，请注意在标题格式中带上【分类模块】，如：
+
+
+* 【内容建议】希望社区多放出一些xxxx方向的直播内容
+* 【社区建议】觉得目前社区在xxx方面存在xxx问题
+
+
+您也可以在已有的建议（issues）下留下您的看法～
+
+
+Apache Flink China 社区，感谢有你。
+
+每个人的声音，我们都在倾听。
